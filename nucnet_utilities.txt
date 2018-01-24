@@ -1,0 +1,19 @@
+We have written some python plotting routines built on matplotlib for use with
+output from NucNet Tools codes.  To use, install matplotlib according to the instructions at:
+
+https://matplotlib.org/users/installing.html
+
+The python -mpip commands should work in most cases.
+
+Then follow the instructions at:
+
+https://github.com/mbradle/nucnet_utilities/
+
+The routines are in relatively primitive shape, so we would certainly welcome
+contributions.  Please make git pull requests off the develop branch.
+
+To create an output xml file, try the running a first network calculation blog
+post:
+
+https://sourceforge.net/u/mbradle/blog/2012/07/test/
+

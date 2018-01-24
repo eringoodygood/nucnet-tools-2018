@@ -1,0 +1,17 @@
+Make the network code:
+
+cd nucnet-tools-code/examples/network
+export NNT_USE_SPARSKIT2=1
+make clean
+make run_single_zone
+
+Run the calculation.  Use zone_bdn.xml:
+
+./run_single_zone ../../data_pub/my_net.xml zone_bdn.xml out_bdn.xml "" "[product[contains(.,'neutrino')] and not(reactant = 'h1')]"
+
+Once done, make the flow diagram:
+
+cd ../graph
+make all_graph
+./flow_graph.sh ../network/out_bdn.xml "" "" "" "[z >= 50 and z <= 70]" net linear bdn_graph.pdf
+
