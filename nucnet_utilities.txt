@@ -1,0 +1,13 @@
+We have written some python plotting routines built on matplotlib for use with
+output from NucNet Tools codes.  To use, install matplotlib according to the instructions at:
+
+https://matplotlib.org/users/installing.html
+
+The python -mpip commands should work in most cases.
+
+Then follow the instructions at:
+
+https://github.com/mbradle/nucnet_utilities/
+
+The routines are in relatively primitive shape, so we would certainly welcome
+contributions.  Please make git pull requests off the develop branch.

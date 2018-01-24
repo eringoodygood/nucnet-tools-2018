@@ -1,0 +1,25 @@
+Updating nuclear data:
+
+https://sourceforge.net/u/mbradle/blog/2012/07/updating-and-validating-network-nuclear-data/
+
+Updating reaction data:
+
+https://sourceforge.net/u/mbradle/blog/2013/02/updating-and-validating-network-reaction-data/
+
+Including XML in other XML:
+
+https://sourceforge.net/u/mbradle/blog/2014/12/including-xml-in-other-libnucnet-xml/
+
+Flow diagrams:
+
+https://sourceforge.net/u/mbradle/blog/2013/06/exploring-flow-diagrams/
+
+also search the blog for "flow diagram"
+
+Modifying reaction rates:
+
+https://sourceforge.net/u/mbradle/blog/2013/02/modifying-reaction-rates-during-network-calculation/
+
+Novae:
+
+https://sourceforge.net/u/mbradle/blog/2013/06/using-a-thermodynamic-trajectory-file/
